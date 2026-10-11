@@ -1,0 +1,3630 @@
+[
+  {
+    "id": "3563694",
+    "title": "Beatles' Greatest = グレイテスト・ヒッツ",
+    "artist": "The Beatles",
+    "year": 1978,
+    "decade": 1970,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Rock & Roll",
+      "Pop Rock",
+      "Beat"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Compilation",
+      "Reissue"
+    ],
+    "collectible_tier": "low",
+    "have": 478,
+    "want": 119
+  },
+  {
+    "id": "4653910",
+    "title": "The Beatles' Second Album = ザビートルズ・セカンド・アルバム",
+    "artist": "The Beatles",
+    "year": 1976,
+    "decade": 1970,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Beat",
+      "Rock & Roll"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Album",
+      "Reissue",
+      "Stereo"
+    ],
+    "collectible_tier": "low",
+    "have": 456,
+    "want": 227
+  },
+  {
+    "id": "8871480",
+    "title": "Вкус Мёда = A Taste Of Honey",
+    "artist": "The Beatles",
+    "year": 1986,
+    "decade": 1980,
+    "country": "USSR",
+    "genre": "Rock",
+    "styles": [
+      "Beat",
+      "Rock & Roll"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Compilation",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 275,
+    "want": 25
+  },
+  {
+    "id": "11533188",
+    "title": "Игра С Огнем = Play With Fire",
+    "artist": "The Rolling Stones",
+    "year": 1990,
+    "decade": 1990,
+    "country": "USSR",
+    "genre": "Rock",
+    "styles": [
+      "Classic Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Compilation",
+      "Repress",
+      "Mono"
+    ],
+    "collectible_tier": "low",
+    "have": 24,
+    "want": 13
+  },
+  {
+    "id": "5841319",
+    "title": "無情の世界 = You Can't Always Get What You Want",
+    "artist": "The Rolling Stones",
+    "year": 1973,
+    "decade": 1970,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Blues Rock",
+      "Rock & Roll"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single"
+    ],
+    "collectible_tier": "none",
+    "have": 24,
+    "want": 43
+  },
+  {
+    "id": "25805884",
+    "title": "Satisfaction = サティスファクション/ Under My Thumb = アンダー・マイ・サム",
+    "artist": "The Rolling Stones",
+    "year": 1983,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Rock; Blues; Pop",
+    "styles": [
+      "Blues Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single"
+    ],
+    "collectible_tier": "none",
+    "have": 4,
+    "want": 11
+  },
+  {
+    "id": "18480298",
+    "title": "滾石合唱團 (1)",
+    "artist": "The Rolling Stones",
+    "year": 1978,
+    "decade": 1970,
+    "country": "Taiwan",
+    "genre": "Rock",
+    "styles": [
+      "Blues Rock",
+      "Classic Rock"
+    ],
+    "formats": [
+      "Cassette"
+    ],
+    "format_descriptions": [
+      "Compilation",
+      "Unofficial Release",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 1,
+    "want": 1
+  },
+  {
+    "id": "7720149",
+    "title": "Леди Джейн = Lady Jane",
+    "artist": "The Rolling Stones",
+    "year": 1988,
+    "decade": 1980,
+    "country": "USSR",
+    "genre": "Rock",
+    "styles": [
+      "Classic Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Compilation",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 351,
+    "want": 11
+  },
+  {
+    "id": "16117868",
+    "title": "窓からはい出せ = Can You Please Crawl Out Your Window?",
+    "artist": "Bob Dylan",
+    "year": 1969,
+    "decade": 1960,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Folk Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 4,
+    "want": 30
+  },
+  {
+    "id": "8396934",
+    "title": "Melancholy Mood = メランコリー・ムード",
+    "artist": "Bob Dylan",
+    "year": 2016,
+    "decade": 2010,
+    "country": "US",
+    "genre": "Jazz; Pop",
+    "styles": [
+      "Vocal"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "33 ⅓ RPM",
+      "EP",
+      "Record Store Day",
+      "Limited Edition",
+      "Stereo"
+    ],
+    "collectible_tier": "high",
+    "have": 1595,
+    "want": 88
+  },
+  {
+    "id": "13274630",
+    "title": "メイク・ユー・フィール・マイ・ラヴ = Make You Feel My Love ",
+    "artist": "Bob Dylan",
+    "year": 2019,
+    "decade": 2010,
+    "country": "Japan",
+    "genre": "Rock; Blues; Folk, World, & Country",
+    "styles": [
+      "Acoustic",
+      "Folk Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "33 ⅓ RPM",
+      "EP",
+      "Limited Edition"
+    ],
+    "collectible_tier": "high",
+    "have": 168,
+    "want": 74
+  },
+  {
+    "id": "3886888",
+    "title": "Nashville Skyline",
+    "artist": "Bob Dylan",
+    "year": 1969,
+    "decade": 1960,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Folk Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "33 ⅓ RPM",
+      "EP",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 25,
+    "want": 65
+  },
+  {
+    "id": "3885884",
+    "title": "ボブ・ディラン! 第２集 = Bob Dylan !! Vol. 2",
+    "artist": "Bob Dylan",
+    "year": 1966,
+    "decade": 1960,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Folk Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "33 ⅓ RPM",
+      "EP",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 25,
+    "want": 58
+  },
+  {
+    "id": "6239149",
+    "title": "Aretha Now = アレサ・ナウ",
+    "artist": "Aretha Franklin",
+    "year": 2013,
+    "decade": 2010,
+    "country": "Japan",
+    "genre": "Funk / Soul",
+    "styles": [
+      "Rhythm & Blues",
+      "Soul"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue",
+      "Remastered",
+      "Stereo"
+    ],
+    "collectible_tier": "low",
+    "have": 58,
+    "want": 140
+  },
+  {
+    "id": "11507960",
+    "title": "Aretha Now = アレサ・ナウ",
+    "artist": "Aretha Franklin",
+    "year": 1975,
+    "decade": 1970,
+    "country": "Japan",
+    "genre": "Funk / Soul",
+    "styles": [
+      "Rhythm & Blues",
+      "Soul"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Album",
+      "Reissue",
+      "Stereo"
+    ],
+    "collectible_tier": "low",
+    "have": 33,
+    "want": 276
+  },
+  {
+    "id": "6452835",
+    "title": "Aretha Now = アレサ・ナウ",
+    "artist": "Aretha Franklin",
+    "year": 2009,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Funk / Soul",
+    "styles": [
+      "Rhythm & Blues",
+      "Soul"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue",
+      "Remastered",
+      "Stereo"
+    ],
+    "collectible_tier": "low",
+    "have": 16,
+    "want": 139
+  },
+  {
+    "id": "28580506",
+    "title": "Aretha = 아레사",
+    "artist": "Aretha Franklin",
+    "year": 1987,
+    "decade": 1980,
+    "country": "South Korea",
+    "genre": "Electronic; Funk / Soul",
+    "styles": [
+      "Soul",
+      "Disco"
+    ],
+    "formats": [
+      "Cassette"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 1,
+    "want": 6
+  },
+  {
+    "id": "5214374",
+    "title": "A Rose Is Still A Rose = ア・ローズ・イズ・スティル・ア・ローズ",
+    "artist": "Aretha Franklin",
+    "year": 1998,
+    "decade": 1990,
+    "country": "Japan",
+    "genre": "Funk / Soul",
+    "styles": [
+      "Soul",
+      "Contemporary R&B"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 39,
+    "want": 25
+  },
+  {
+    "id": "20819833",
+    "title": "自由 / 天使 = Freedom / Angel",
+    "artist": "Jimi Hendrix",
+    "year": 1971,
+    "decade": 1970,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Psychedelic Rock",
+      "Classic Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "Single",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 6,
+    "want": 8
+  },
+  {
+    "id": "9817450",
+    "title": "紫のけむり = Purple Haze",
+    "artist": "Jimi Hendrix",
+    "year": 1968,
+    "decade": 1960,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Blues Rock",
+      "Psychedelic Rock",
+      "Classic Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Repress",
+      "Mono"
+    ],
+    "collectible_tier": "low",
+    "have": 150,
+    "want": 78
+  },
+  {
+    "id": "4264793",
+    "title": "Hey Joe",
+    "artist": "Jimi Hendrix",
+    "year": 1968,
+    "decade": 1960,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Psychedelic Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "Single",
+      "45 RPM"
+    ],
+    "collectible_tier": "none",
+    "have": 40,
+    "want": 147
+  },
+  {
+    "id": "4858306",
+    "title": "Electric Ladyland = エレクトリック・レディランド",
+    "artist": "Jimi Hendrix",
+    "year": 1991,
+    "decade": 1990,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Blues Rock",
+      "Psychedelic Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue",
+      "Remastered",
+      "Stereo"
+    ],
+    "collectible_tier": "low",
+    "have": 118,
+    "want": 474
+  },
+  {
+    "id": "9634163",
+    "title": "Shine On You Crazy Diamond / Another Brick In The Wall",
+    "artist": "Pink Floyd",
+    "year": 1992,
+    "decade": 1990,
+    "country": "South Korea",
+    "genre": "Rock",
+    "styles": [
+      "Prog Rock",
+      "Psychedelic Rock"
+    ],
+    "formats": [
+      "Cassette"
+    ],
+    "format_descriptions": [
+      "Compilation",
+      "Unofficial Release"
+    ],
+    "collectible_tier": "none",
+    "have": 0,
+    "want": 6
+  },
+  {
+    "id": "7005715",
+    "title": "Wish You Were Here = 炎　～あなたがここにいてほしい～",
+    "artist": "Pink Floyd",
+    "year": 2006,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Prog Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue",
+      "Remastered",
+      "Stereo"
+    ],
+    "collectible_tier": "low",
+    "have": 39,
+    "want": 809
+  },
+  {
+    "id": "17407183",
+    "title": "The Dark Side Of The Moon = Обратная Сторона Луны",
+    "artist": "Pink Floyd",
+    "year": 1992,
+    "decade": 1990,
+    "country": "Russia",
+    "genre": "Rock",
+    "styles": [
+      "Psychedelic Rock",
+      "Prog Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Album",
+      "Reissue",
+      "Unofficial Release",
+      "Stereo"
+    ],
+    "collectible_tier": "low",
+    "have": 30,
+    "want": 729
+  },
+  {
+    "id": "12786327",
+    "title": "The Final Cut",
+    "artist": "Pink Floyd",
+    "year": 1990,
+    "decade": 1990,
+    "country": "South Korea",
+    "genre": "Rock",
+    "styles": [
+      "Prog Rock"
+    ],
+    "formats": [
+      "Cassette"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue"
+    ],
+    "collectible_tier": "low",
+    "have": 5,
+    "want": 105
+  },
+  {
+    "id": "8167632",
+    "title": "Reward If Found",
+    "artist": "Fleetwood",
+    "year": 2005,
+    "decade": 2000,
+    "country": "US",
+    "genre": "Hip Hop",
+    "styles": [],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 0,
+    "want": 3
+  },
+  {
+    "id": "4876028",
+    "title": "オー・ウェル = Oh Well (Parts 1 & 2)",
+    "artist": "Fleetwood",
+    "year": 1969,
+    "decade": 1960,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "Single"
+    ],
+    "collectible_tier": "none",
+    "have": 16,
+    "want": 72
+  },
+  {
+    "id": "4879059",
+    "title": "ビッグ・ラヴ = Big Love",
+    "artist": "Fleetwood",
+    "year": 1987,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Pop Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 47,
+    "want": 65
+  },
+  {
+    "id": "14727641",
+    "title": "Sara = セーラ ",
+    "artist": "Fleetwood",
+    "year": 1980,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Classic Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Promo",
+      "Stereo"
+    ],
+    "collectible_tier": "high",
+    "have": 9,
+    "want": 23
+  },
+  {
+    "id": "4623097",
+    "title": "Reality = リアリティ　スペシャル・エディション",
+    "artist": "David Bowie",
+    "year": 2004,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Alternative Rock",
+      "Art Rock"
+    ],
+    "formats": [
+      "CD",
+      "DVD",
+      "All Media"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue",
+      "DVD-Video",
+      "NTSC",
+      "Stereo",
+      "Limited Edition",
+      "Special Edition"
+    ],
+    "collectible_tier": "high",
+    "have": 50,
+    "want": 100
+  },
+  {
+    "id": "3644881",
+    "title": "The Singles Collection = ザ・シングルス・コレクション",
+    "artist": "David Bowie",
+    "year": 1996,
+    "decade": 1990,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Pop Rock",
+      "Glam"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Compilation",
+      "Reissue",
+      "Remastered"
+    ],
+    "collectible_tier": "low",
+    "have": 59,
+    "want": 37
+  },
+  {
+    "id": "3610786",
+    "title": "ステイ = Stay",
+    "artist": "David Bowie",
+    "year": 1976,
+    "decade": 1970,
+    "country": "Japan",
+    "genre": "Rock; Funk / Soul; Pop",
+    "styles": [
+      "Soul",
+      "Pop Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 109,
+    "want": 150
+  },
+  {
+    "id": "14449737",
+    "title": "Conversation Piece = カンヴァセーション・ピース",
+    "artist": "David Bowie",
+    "year": 2019,
+    "decade": 2010,
+    "country": "Japan",
+    "genre": "Rock; Pop",
+    "styles": [
+      "Folk Rock",
+      "Lo-Fi",
+      "Pop Rock"
+    ],
+    "formats": [
+      "Box Set",
+      "CD",
+      "CD",
+      "CD",
+      "CD",
+      "CD"
+    ],
+    "format_descriptions": [
+      "Compilation",
+      "Remastered",
+      "Mono",
+      "Compilation",
+      "Remastered",
+      "Mono",
+      "Compilation",
+      "Remastered",
+      "Mono",
+      "Album",
+      "Reissue",
+      "Remastered",
+      "Stereo",
+      "Album",
+      "Stereo"
+    ],
+    "collectible_tier": "low",
+    "have": 28,
+    "want": 47
+  },
+  {
+    "id": "16192436",
+    "title": "ゴールデン・イヤーズ = Golden Years",
+    "artist": "David Bowie",
+    "year": 1976,
+    "decade": 1970,
+    "country": "Japan",
+    "genre": "Funk / Soul",
+    "styles": [
+      "Soul"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 8,
+    "want": 61
+  },
+  {
+    "id": "661526",
+    "title": "Stairway To Heaven = Лестница На Небеса",
+    "artist": "Led Zeppelin",
+    "year": 1988,
+    "decade": 1980,
+    "country": "USSR",
+    "genre": "Rock",
+    "styles": [
+      "Hard Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Compilation",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 1094,
+    "want": 76
+  },
+  {
+    "id": "5566238",
+    "title": "Led Zeppelin IV = レッド・ツェッペリン IV",
+    "artist": "Led Zeppelin",
+    "year": 2012,
+    "decade": 2010,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Blues Rock",
+      "Hard Rock",
+      "Classic Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Limited Edition",
+      "Reissue",
+      "Remastered"
+    ],
+    "collectible_tier": "high",
+    "have": 68,
+    "want": 646
+  },
+  {
+    "id": "6700075",
+    "title": "Stairway To Heaven = Лестница На Небеса",
+    "artist": "Led Zeppelin",
+    "year": 1990,
+    "decade": 1990,
+    "country": "USSR",
+    "genre": "Rock",
+    "styles": [
+      "Hard Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Compilation",
+      "Repress",
+      "Stereo"
+    ],
+    "collectible_tier": "low",
+    "have": 33,
+    "want": 42
+  },
+  {
+    "id": "5797392",
+    "title": "Led Zeppelin III = レッド・ツェッペリン III",
+    "artist": "Led Zeppelin",
+    "year": 2014,
+    "decade": 2010,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Classic Rock",
+      "Blues Rock",
+      "Folk Rock",
+      "Hard Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Deluxe Edition",
+      "Reissue",
+      "Remastered"
+    ],
+    "collectible_tier": "low",
+    "have": 96,
+    "want": 525
+  },
+  {
+    "id": "21563707",
+    "title": "Mothership = マザーシップ",
+    "artist": "Led Zeppelin",
+    "year": 2007,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Blues Rock",
+      "Hard Rock",
+      "Heavy Metal"
+    ],
+    "formats": [
+      "CD",
+      "DVD"
+    ],
+    "format_descriptions": [
+      "Compilation",
+      "Limited Edition",
+      "Promo",
+      "Remastered",
+      "Stereo",
+      "DVD-Video",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 6,
+    "want": 36
+  },
+  {
+    "id": "3403711",
+    "title": "Autobahn = アウトバーン",
+    "artist": "Kraftwerk",
+    "year": 1975,
+    "decade": 1970,
+    "country": "Japan",
+    "genre": "Electronic",
+    "styles": [
+      "Electro"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Album",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 24,
+    "want": 644
+  },
+  {
+    "id": "9256578",
+    "title": "Electric Cafe = エレクトリック・カフェ",
+    "artist": "Kraftwerk",
+    "year": 1987,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Electronic",
+    "styles": [
+      "Techno",
+      "Synth-pop"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 50,
+    "want": 216
+  },
+  {
+    "id": "10520796",
+    "title": "Computer World = コンピューター・ワールド",
+    "artist": "Kraftwerk",
+    "year": 1981,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Electronic",
+    "styles": [
+      "Electro",
+      "Synth-pop"
+    ],
+    "formats": [
+      "Cassette"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 12,
+    "want": 313
+  },
+  {
+    "id": "10977180",
+    "title": "Autobahn = アウトバーン",
+    "artist": "Kraftwerk",
+    "year": 1978,
+    "decade": 1970,
+    "country": "Japan",
+    "genre": "Electronic",
+    "styles": [
+      "Krautrock",
+      "Experimental"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Album",
+      "Promo",
+      "Reissue"
+    ],
+    "collectible_tier": "high",
+    "have": 7,
+    "want": 430
+  },
+  {
+    "id": "3457280",
+    "title": "Autobahn = アウトバーン",
+    "artist": "Kraftwerk",
+    "year": 1978,
+    "decade": 1970,
+    "country": "Japan",
+    "genre": "Electronic; Rock",
+    "styles": [
+      "Electro",
+      "Krautrock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+    ],
+    "collectible_tier": "low",
+    "have": 36,
+    "want": 740
+  },
+  {
+    "id": "18752872",
+    "title": "マサチューセッツ = Massachusetts",
+    "artist": "Bee Gees",
+    "year": 1968,
+    "decade": 1960,
+    "country": "Japan",
+    "genre": "Pop",
+    "styles": [
+      "Vocal"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "33 ⅓ RPM",
+      "EP",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 8,
+    "want": 5
+  },
+  {
+    "id": "31763981",
+    "title": "He's A Liar = 愛はトライアングル",
+    "artist": "Bee Gees",
+    "year": 1981,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Pop",
+    "styles": [
+      "Vocal"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 1,
+    "want": 5
+  },
+  {
+    "id": "25394134",
+    "title": "Living Eyes = リビング・アイズ",
+    "artist": "Bee Gees",
+    "year": 2022,
+    "decade": 2020,
+    "country": "Japan",
+    "genre": "Electronic; Rock",
+    "styles": [
+      "Pop Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue"
+    ],
+    "collectible_tier": "low",
+    "have": 83,
+    "want": 23
+  },
+  {
+    "id": "25386991",
+    "title": "Bee Gees' 1st = ビー・ジーズ・ファースト",
+    "artist": "Bee Gees",
+    "year": 2022,
+    "decade": 2020,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Psychedelic Rock",
+      "Pop Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue"
+    ],
+    "collectible_tier": "low",
+    "have": 47,
+    "want": 23
+  },
+  {
+    "id": "6194058",
+    "title": "The Ultimate Bee Gees = アルティメイト・ベスト・オブ・ビー・ジーズ",
+    "artist": "Bee Gees",
+    "year": 2009,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Rock; Funk / Soul; Pop",
+    "styles": [
+      "Disco",
+      "Pop Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Compilation",
+      "Remastered",
+      "Stereo",
+      "Mono"
+    ],
+    "collectible_tier": "none",
+    "have": 32,
+    "want": 17
+  },
+  {
+    "id": "6144465",
+    "title": "High Voltage ",
+    "artist": "AC/DC",
+    "year": 2008,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Hard Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue",
+      "Remastered"
+    ],
+    "collectible_tier": "low",
+    "have": 37,
+    "want": 166
+  },
+  {
+    "id": "1494424",
+    "title": "Dirty Deeds Done Dirt Cheap = 悪事と地獄",
+    "artist": "AC/DC",
+    "year": 2007,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Hard Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Limited Edition",
+      "Reissue",
+      "Remastered",
+      "Stereo"
+    ],
+    "collectible_tier": "high",
+    "have": 162,
+    "want": 165
+  },
+  {
+    "id": "2022109",
+    "title": "The Razors Edge = レーザーズ・エッジ",
+    "artist": "AC/DC",
+    "year": 2008,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Hard Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Enhanced",
+      "Limited Edition",
+      "Reissue",
+      "Remastered"
+    ],
+    "collectible_tier": "high",
+    "have": 126,
+    "want": 130
+  },
+  {
+    "id": "2096836",
+    "title": "Stiff Upper Lip = スティッフ・アッパー・リップ",
+    "artist": "AC/DC",
+    "year": 2008,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Hard Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Enhanced",
+      "Limited Edition",
+      "Reissue",
+      "Remastered"
+    ],
+    "collectible_tier": "high",
+    "have": 110,
+    "want": 64
+  },
+  {
+    "id": "33568623",
+    "title": "VUELTA DE LLAVE ",
+    "artist": "AC/DC",
+    "year": 1983,
+    "decade": 1980,
+    "country": "Argentina",
+    "genre": "Rock",
+    "styles": [
+      "Hard Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Promo",
+      "Stereo"
+    ],
+    "collectible_tier": "high",
+    "have": 1,
+    "want": 24
+  },
+  {
+    "id": "3030633",
+    "title": "Bad Girls = 華麗なる誘惑",
+    "artist": "Donna Summer",
+    "year": 1979,
+    "decade": 1970,
+    "country": "Japan",
+    "genre": "Electronic; Funk / Soul",
+    "styles": [
+      "Synth-pop",
+      "Disco"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 693,
+    "want": 381
+  },
+  {
+    "id": "25632754",
+    "title": "Protection = プロテクション",
+    "artist": "Donna Summer",
+    "year": 1982,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Pop",
+    "styles": [
+      "Europop"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 4,
+    "want": 8
+  },
+  {
+    "id": "1341898",
+    "title": "ホット・スタッフ = Hot Stuff",
+    "artist": "Donna Summer",
+    "year": 1979,
+    "decade": 1970,
+    "country": "Japan",
+    "genre": "Electronic; Funk / Soul",
+    "styles": [
+      "Soul",
+      "Disco"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 317,
+    "want": 140
+  },
+  {
+    "id": "19575925",
+    "title": "Crayons = 粉彩派對",
+    "artist": "Donna Summer",
+    "year": 2008,
+    "decade": 2000,
+    "country": "Taiwan",
+    "genre": "Electronic; Funk / Soul; Pop",
+    "styles": [
+      "Contemporary R&B",
+      "Dance-pop",
+      "Disco",
+      "House"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 2,
+    "want": 8
+  },
+  {
+    "id": "4587452",
+    "title": "Protection = プロテクション",
+    "artist": "Donna Summer",
+    "year": 1982,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Pop",
+    "styles": [
+      "Europop"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 54,
+    "want": 22
+  },
+  {
+    "id": "14184496",
+    "title": "Talking Heads: 77 = サイコ・キラー’77",
+    "artist": "Talking Heads",
+    "year": 1990,
+    "decade": 1990,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "New Wave"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Promo",
+      "Reissue"
+    ],
+    "collectible_tier": "high",
+    "have": 2,
+    "want": 270
+  },
+  {
+    "id": "2877296",
+    "title": "Fear Of Music = フィア・オブ・ミュージック",
+    "artist": "Talking Heads",
+    "year": 1982,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "New Wave",
+      "Art Rock",
+      "Post-Punk"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Album",
+      "Limited Edition",
+      "Reissue"
+    ],
+    "collectible_tier": "high",
+    "have": 217,
+    "want": 601
+  },
+  {
+    "id": "11995653",
+    "title": "Lifetime Piling Up",
+    "artist": "Talking Heads",
+    "year": 1992,
+    "decade": 1990,
+    "country": "UK",
+    "genre": "Rock",
+    "styles": [
+      "Alternative Rock",
+      "Pop Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Single"
+    ],
+    "collectible_tier": "none",
+    "have": 46,
+    "want": 16
+  },
+  {
+    "id": "2108575",
+    "title": "Monkey Business",
+    "artist": "Talking Heads",
+    "year": 1991,
+    "decade": 1990,
+    "country": "Italy",
+    "genre": "Rock; Pop; Folk, World, & Country",
+    "styles": [
+      "Alternative Rock",
+      "New Wave",
+      "Art Rock",
+      "Indie Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Unofficial Release"
+    ],
+    "collectible_tier": "none",
+    "have": 31,
+    "want": 22
+  },
+  {
+    "id": "5855791",
+    "title": "Thriller = Трилър = Триллер",
+    "artist": "Michael Jackson",
+    "year": 1988,
+    "decade": 1980,
+    "country": "Bulgaria",
+    "genre": "Electronic; Funk / Soul; Pop",
+    "styles": [
+      "Disco",
+      "Soul",
+      "Synth-pop",
+      "Funk"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Album",
+      "Repress",
+      "Stereo"
+    ],
+    "collectible_tier": "low",
+    "have": 1061,
+    "want": 799
+  },
+  {
+    "id": "13010216",
+    "title": "Bad",
+    "artist": "Michael Jackson",
+    "year": 1987,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Electronic; Funk / Soul",
+    "styles": [
+      "Rhythm & Blues",
+      "Synth-pop",
+      "Soul"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Album",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 218,
+    "want": 586
+  },
+  {
+    "id": "11893642",
+    "title": "Xscape",
+    "artist": "Michael Jackson",
+    "year": 2018,
+    "decade": 2010,
+    "country": "Japan",
+    "genre": "Funk / Soul; Pop",
+    "styles": [
+      "Funk",
+      "Soul",
+      "RnB/Swing"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 51,
+    "want": 104
+  },
+  {
+    "id": "2678449",
+    "title": "Thriller = スリラー",
+    "artist": "Michael Jackson",
+    "year": 1984,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Electronic; Pop",
+    "styles": [
+      "Disco"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "Promo",
+      "Stereo"
+    ],
+    "collectible_tier": "high",
+    "have": 37,
+    "want": 148
+  },
+  {
+    "id": "6224521",
+    "title": "Xscape",
+    "artist": "Michael Jackson",
+    "year": 2014,
+    "decade": 2010,
+    "country": "Japan",
+    "genre": "Electronic; Funk / Soul; Pop",
+    "styles": [
+      "Synth-pop",
+      "Soul"
+    ],
+    "formats": [
+      "CD",
+      "DVD",
+      "All Media"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Promo",
+      "DVD-Video",
+      "NTSC",
+      "Promo",
+      "Deluxe Edition"
+    ],
+    "collectible_tier": "high",
+    "have": 16,
+    "want": 96
+  },
+  {
+    "id": "1541749",
+    "title": "The Jam",
+    "artist": "Prince",
+    "year": 1992,
+    "decade": 1990,
+    "country": "Unknown",
+    "genre": "Funk / Soul",
+    "styles": [
+      "Funk"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Compilation",
+      "Unofficial Release"
+    ],
+    "collectible_tier": "none",
+    "have": 117,
+    "want": 14
+  },
+  {
+    "id": "15916906",
+    "title": "戦慄の貴公子 = Controversy",
+    "artist": "Prince",
+    "year": 1988,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Funk / Soul; Pop",
+    "styles": [
+      "Funk"
+    ],
+    "formats": [
+      "Cassette"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue",
+      "Stereo"
+    ],
+    "collectible_tier": "low",
+    "have": 5,
+    "want": 78
+  },
+  {
+    "id": "8348227",
+    "title": "サイン・オブ・ザ・タイムズ = Sign \"O\" The Times",
+    "artist": "Prince",
+    "year": 2013,
+    "decade": 2010,
+    "country": "Japan",
+    "genre": "Electronic; Rock; Funk / Soul; Pop",
+    "styles": [
+      "Pop Rock",
+      "Synth-pop",
+      "Funk",
+      "Minneapolis Sound"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Limited Edition",
+      "Reissue"
+    ],
+    "collectible_tier": "high",
+    "have": 18,
+    "want": 252
+  },
+  {
+    "id": "1328967",
+    "title": "1999",
+    "artist": "Prince",
+    "year": 1982,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Funk / Soul; Pop",
+    "styles": [
+      "Minneapolis Sound",
+      "Soul"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 284,
+    "want": 164
+  },
+  {
+    "id": "4327944",
+    "title": "1999",
+    "artist": "Prince",
+    "year": 1982,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Electronic; Funk / Soul",
+    "styles": [
+      "Funk",
+      "Soul",
+      "Dance-pop",
+      "Contemporary R&B",
+      "Pop Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 65,
+    "want": 124
+  },
+  {
+    "id": "6758202",
+    "title": "Rebel Heart = レベル・ハート",
+    "artist": "Madonna",
+    "year": 2015,
+    "decade": 2010,
+    "country": "Japan",
+    "genre": "Electronic; Hip Hop; Reggae; Pop",
+    "styles": [
+      "Europop",
+      "Dance-pop",
+      "Pop Rap",
+      "House",
+      "Electro",
+      "Trap"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 245,
+    "want": 91
+  },
+  {
+    "id": "2559416",
+    "title": "Like A Prayer = ライク・ア・プレイヤー",
+    "artist": "Madonna",
+    "year": 1989,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Electronic",
+    "styles": [
+      "Synth-pop"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 96,
+    "want": 211
+  },
+  {
+    "id": "12086835",
+    "title": "Who's That Girl = フーズ・ザット・ガール",
+    "artist": "Madonna",
+    "year": 1987,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Pop",
+    "styles": [
+      "Synth-pop"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Promo",
+      "Stereo"
+    ],
+    "collectible_tier": "high",
+    "have": 59,
+    "want": 72
+  },
+  {
+    "id": "10929240",
+    "title": "Rebel Heart Tour = 心叛逆世界巡迴演唱會",
+    "artist": "Madonna",
+    "year": 2017,
+    "decade": 2010,
+    "country": "Taiwan",
+    "genre": "Electronic; Hip Hop; Jazz; Rock; Latin; Pop",
+    "styles": [
+      "Dance-pop",
+      "Synth-pop",
+      "House",
+      "Electro",
+      "Pop Rock",
+      "Ballad"
+    ],
+    "formats": [
+      "DVD",
+      "CD",
+      "All Media"
+    ],
+    "format_descriptions": [
+      "DVD-Video",
+      "NTSC",
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 40,
+    "want": 23
+  },
+  {
+    "id": "1001229",
+    "title": "The Immaculate Collection = 超級精選輯",
+    "artist": "Madonna",
+    "year": 1997,
+    "decade": 1990,
+    "country": "Taiwan",
+    "genre": "Electronic; Pop",
+    "styles": [
+      "Synth-pop",
+      "Dance-pop",
+      "House",
+      "Ballad"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Compilation",
+      "Reissue"
+    ],
+    "collectible_tier": "low",
+    "have": 39,
+    "want": 93
+  },
+  {
+    "id": "1403677",
+    "title": "クエスチョン・オブ・ラスト = A Question Of Lust",
+    "artist": "Depeche Mode",
+    "year": 1986,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Electronic",
+    "styles": [
+      "Industrial",
+      "Synth-pop"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 63,
+    "want": 169
+  },
+  {
+    "id": "388805",
+    "title": "Ultra = ウルトラ",
+    "artist": "Depeche Mode",
+    "year": 1997,
+    "decade": 1990,
+    "country": "Japan",
+    "genre": "Electronic",
+    "styles": [
+      "Synth-pop"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 284,
+    "want": 192
+  },
+  {
+    "id": "25393303",
+    "title": "Live In Berlin (Soundtrack) = ライヴ・イン・ベルリン–サウンドトラック",
+    "artist": "Depeche Mode",
+    "year": 2014,
+    "decade": 2010,
+    "country": "Japan",
+    "genre": "Electronic; Pop",
+    "styles": [
+      "Synth-pop"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 3,
+    "want": 21
+  },
+  {
+    "id": "2046413",
+    "title": "キャント・ゲット・イナフ = Just Can't Get Enough",
+    "artist": "Depeche Mode",
+    "year": 1982,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Electronic",
+    "styles": [
+      "Synth-pop"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 97,
+    "want": 379
+  },
+  {
+    "id": "2114747",
+    "title": "Sounds Of The Universe = 宇宙之声",
+    "artist": "Depeche Mode",
+    "year": 2009,
+    "decade": 2000,
+    "country": "China",
+    "genre": "Electronic; Rock",
+    "styles": [
+      "Synth-pop"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 66,
+    "want": 88
+  },
+  {
+    "id": "33718701",
+    "title": "Raising Hell = 上升的地獄",
+    "artist": "Run-D.M.C.",
+    "year": 1986,
+    "decade": 1980,
+    "country": "Taiwan",
+    "genre": "Hip Hop",
+    "styles": [
+      "Boom Bap"
+    ],
+    "formats": [
+      "Cassette"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 2,
+    "want": 16
+  },
+  {
+    "id": "13298259",
+    "title": "Greatest Hits",
+    "artist": "Run-D.M.C.",
+    "year": 2002,
+    "decade": 2000,
+    "country": "Canada",
+    "genre": "Hip Hop",
+    "styles": [
+      "Gangsta"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Compilation"
+    ],
+    "collectible_tier": "none",
+    "have": 25,
+    "want": 10
+  },
+  {
+    "id": "4689319",
+    "title": "Down With The King",
+    "artist": "Run-D.M.C.",
+    "year": 1993,
+    "decade": 1990,
+    "country": "Canada",
+    "genre": "Hip Hop",
+    "styles": [
+      "Electro"
+    ],
+    "formats": [
+      "Cassette"
+    ],
+    "format_descriptions": [
+      "Single"
+    ],
+    "collectible_tier": "none",
+    "have": 4,
+    "want": 20
+  },
+  {
+    "id": "3331513",
+    "title": "Full Moon, Dirty Hearts = フル・ムーン・ダーティー・ハーツ",
+    "artist": "INXS",
+    "year": 1993,
+    "decade": 1990,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Pop Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 69,
+    "want": 28
+  },
+  {
+    "id": "6303993",
+    "title": "メッセージ = I Send A Message",
+    "artist": "INXS",
+    "year": 1984,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Pop",
+    "styles": [],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 15,
+    "want": 29
+  },
+  {
+    "id": "1507238",
+    "title": "オリジナル・シン = Original Sin",
+    "artist": "INXS",
+    "year": 1984,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Pop",
+    "styles": [],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single"
+    ],
+    "collectible_tier": "none",
+    "have": 82,
+    "want": 72
+  },
+  {
+    "id": "1507241",
+    "title": "メッセージ = I Send A Message",
+    "artist": "INXS",
+    "year": 1984,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Pop",
+    "styles": [],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single"
+    ],
+    "collectible_tier": "none",
+    "have": 27,
+    "want": 46
+  },
+  {
+    "id": "8431381",
+    "title": "ワン・シング = The One Thing",
+    "artist": "INXS",
+    "year": 1983,
+    "decade": 1980,
+    "country": "Japan",
+    "genre": "Pop",
+    "styles": [],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Single",
+      "Promo",
+      "Stereo"
+    ],
+    "collectible_tier": "high",
+    "have": 19,
+    "want": 31
+  },
+  {
+    "id": "8549572",
+    "title": "Local Anaesthetic = 局部麻酔",
+    "artist": "Nirvana",
+    "year": 1993,
+    "decade": 1990,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Art Rock",
+      "Psychedelic Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue"
+    ],
+    "collectible_tier": "low",
+    "have": 7,
+    "want": 24
+  },
+  {
+    "id": "22920788",
+    "title": "In Utero",
+    "artist": "Nirvana",
+    "year": 1993,
+    "decade": 1990,
+    "country": "South Korea",
+    "genre": "Rock",
+    "styles": [
+      "Grunge",
+      "Alternative Rock"
+    ],
+    "formats": [
+      "Cassette"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 7,
+    "want": 141
+  },
+  {
+    "id": "33979125",
+    "title": "Nevermind = 毫不介意",
+    "artist": "Nirvana",
+    "year": 2000,
+    "decade": 2000,
+    "country": "China",
+    "genre": "Rock",
+    "styles": [
+      "Grunge"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Unofficial Release"
+    ],
+    "collectible_tier": "none",
+    "have": 6,
+    "want": 113
+  },
+  {
+    "id": "23688416",
+    "title": "Bleach",
+    "artist": "Nirvana",
+    "year": 1994,
+    "decade": 1990,
+    "country": "South Korea",
+    "genre": "Rock",
+    "styles": [
+      "Grunge"
+    ],
+    "formats": [
+      "Cassette"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue"
+    ],
+    "collectible_tier": "low",
+    "have": 1,
+    "want": 123
+  },
+  {
+    "id": "1746738",
+    "title": "燃えよウータン = Enter The Wu-Tang (36 Chambers)",
+    "artist": "Wu-Tang Clan",
+    "year": 2007,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Hip Hop",
+    "styles": [
+      "Boom Bap",
+      "Hardcore Hip-Hop"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue",
+      "Remastered",
+      "Stereo"
+    ],
+    "collectible_tier": "low",
+    "have": 76,
+    "want": 786
+  },
+  {
+    "id": "1956423",
+    "title": "Hidden Chambers Vol. 2",
+    "artist": "Wu-Tang Clan",
+    "year": 2002,
+    "decade": 2000,
+    "country": "US",
+    "genre": "Hip Hop",
+    "styles": [],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "12\"",
+      "Unofficial Release"
+    ],
+    "collectible_tier": "none",
+    "have": 134,
+    "want": 138
+  },
+  {
+    "id": "5299111",
+    "title": "Iron Flag",
+    "artist": "Wu-Tang Clan",
+    "year": 2001,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Hip Hop",
+    "styles": [
+      "Thug Rap",
+      "Gangsta"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 48,
+    "want": 81
+  },
+  {
+    "id": "5347682",
+    "title": "ディスカバリー = Discovery",
+    "artist": "Daft Punk",
+    "year": 2014,
+    "decade": 2010,
+    "country": "Japan",
+    "genre": "Electronic",
+    "styles": [
+      "Electro",
+      "Electro House"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Limited Edition",
+      "Reissue",
+      "Stereo"
+    ],
+    "collectible_tier": "high",
+    "have": 271,
+    "want": 1022
+  },
+  {
+    "id": "31532818",
+    "title": "Discovery = ディスカバリー",
+    "artist": "Daft Punk",
+    "year": 2007,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Electronic",
+    "styles": [
+      "House"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue"
+    ],
+    "collectible_tier": "low",
+    "have": 3,
+    "want": 208
+  },
+  {
+    "id": "900893",
+    "title": "Homework = ホームワーク",
+    "artist": "Daft Punk",
+    "year": 2009,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Electronic",
+    "styles": [
+      "House"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue"
+    ],
+    "collectible_tier": "low",
+    "have": 28,
+    "want": 636
+  },
+  {
+    "id": "37163529",
+    "title": "Homework = ホームワーク",
+    "artist": "Daft Punk",
+    "year": 2005,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Electronic",
+    "styles": [
+      "House"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 1,
+    "want": 41
+  },
+  {
+    "id": "32515302",
+    "title": "Discovery = ディスカバリー",
+    "artist": "Daft Punk",
+    "year": 2024,
+    "decade": 2020,
+    "country": "Worldwide",
+    "genre": "Electronic",
+    "styles": [
+      "House"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Album",
+      "Limited Edition",
+      "Reissue"
+    ],
+    "collectible_tier": "high",
+    "have": 6270,
+    "want": 3910
+  },
+  {
+    "id": "4194549",
+    "title": "Thug Angel (2-DVD Special Edition)",
+    "artist": "Tupac Shakur",
+    "year": 2002,
+    "decade": 2000,
+    "country": "Europe",
+    "genre": "Hip Hop",
+    "styles": [
+      "Thug Rap"
+    ],
+    "formats": [
+      "DVD"
+    ],
+    "format_descriptions": [
+      "DVD-Video",
+      "PAL"
+    ],
+    "collectible_tier": "none",
+    "have": 20,
+    "want": 18
+  },
+  {
+    "id": "5655465",
+    "title": "The Rose That Grew From Concrete",
+    "artist": "Tupac Shakur",
+    "year": 2000,
+    "decade": 2000,
+    "country": "US",
+    "genre": "Hip Hop",
+    "styles": [
+      "Gangsta"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 17,
+    "want": 18
+  },
+  {
+    "id": "15234659",
+    "title": "Live At The House Of Blues",
+    "artist": "Tupac Shakur",
+    "year": 2013,
+    "decade": 2010,
+    "country": "UK & Europe",
+    "genre": "Hip Hop",
+    "styles": [
+      "Gangsta",
+      "Hardcore Hip-Hop",
+      "G-Funk"
+    ],
+    "formats": [
+      "DVD"
+    ],
+    "format_descriptions": [
+      "DVD-Video",
+      "PAL",
+      "Reissue"
+    ],
+    "collectible_tier": "low",
+    "have": 18,
+    "want": 12
+  },
+  {
+    "id": "27385290",
+    "title": "The Lost Tapes (Edited)",
+    "artist": "Tupac Shakur",
+    "year": 2000,
+    "decade": 2000,
+    "country": "US",
+    "genre": "Electronic; Hip Hop",
+    "styles": [
+      "Gangsta",
+      "Electro"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Compilation"
+    ],
+    "collectible_tier": "none",
+    "have": 4,
+    "want": 5
+  },
+  {
+    "id": "12883754",
+    "title": "Amnesiac = 失忆",
+    "artist": "Radiohead",
+    "year": 2001,
+    "decade": 2000,
+    "country": "China",
+    "genre": "Rock",
+    "styles": [
+      "Alternative Rock",
+      "Experimental",
+      "Art Rock"
+    ],
+    "formats": [
+      "Cassette"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 8,
+    "want": 224
+  },
+  {
+    "id": "22465894",
+    "title": "Pablo Honey = 파블로 허니",
+    "artist": "Radiohead",
+    "year": 1993,
+    "decade": 1990,
+    "country": "South Korea",
+    "genre": "Rock",
+    "styles": [
+      "Alternative Rock",
+      "Indie Rock"
+    ],
+    "formats": [
+      "Cassette"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 4,
+    "want": 89
+  },
+  {
+    "id": "413206",
+    "title": "The Bends = ザ・ベンズ",
+    "artist": "Radiohead",
+    "year": 1995,
+    "decade": 1990,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Alternative Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 538,
+    "want": 689
+  },
+  {
+    "id": "4410410",
+    "title": "Amnesiac = アムニージアック",
+    "artist": "Radiohead",
+    "year": 2001,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Electronic; Rock",
+    "styles": [
+      "Alternative Rock",
+      "Leftfield",
+      "Experimental"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 363,
+    "want": 366
+  },
+  {
+    "id": "2852691",
+    "title": "Return Of The Mac",
+    "artist": "The Prodigy",
+    "year": 2007,
+    "decade": 2000,
+    "country": "Russia",
+    "genre": "Electronic; Hip Hop",
+    "styles": [
+      "Gangsta",
+      "Big Beat"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Compilation",
+      "Unofficial Release"
+    ],
+    "collectible_tier": "none",
+    "have": 5,
+    "want": 28
+  },
+  {
+    "id": "6248045",
+    "title": "The Fat Of The Land",
+    "artist": "The Prodigy",
+    "year": 2009,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Electronic; Hip Hop",
+    "styles": [
+      "Breakbeat",
+      "Big Beat"
+    ],
+    "formats": [
+      "CDr"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 4,
+    "want": 276
+  },
+  {
+    "id": "5463078",
+    "title": "Always Outnumbered, Never Outgunned",
+    "artist": "The Prodigy",
+    "year": 2004,
+    "decade": 2000,
+    "country": "China",
+    "genre": "Electronic",
+    "styles": [
+      "Breakbeat",
+      "Electro",
+      "Big Beat"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Unofficial Release"
+    ],
+    "collectible_tier": "none",
+    "have": 11,
+    "want": 74
+  },
+  {
+    "id": "6163169",
+    "title": "Experience",
+    "artist": "The Prodigy",
+    "year": 2009,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Electronic",
+    "styles": [
+      "Breakbeat",
+      "Hardcore"
+    ],
+    "formats": [
+      "CDr"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 9,
+    "want": 185
+  },
+  {
+    "id": "3419588",
+    "title": "More Music For The Jilted Generation = 獻給被遺棄世代的音樂",
+    "artist": "The Prodigy",
+    "year": 2008,
+    "decade": 2000,
+    "country": "Taiwan",
+    "genre": "Electronic",
+    "styles": [
+      "Breakbeat",
+      "Techno",
+      "Big Beat",
+      "Industrial"
+    ],
+    "formats": [
+      "CD",
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Remastered",
+      "Compilation"
+    ],
+    "collectible_tier": "none",
+    "have": 33,
+    "want": 205
+  },
+  {
+    "id": "6968025",
+    "title": "This Is Not A Test!",
+    "artist": "Missy Elliott",
+    "year": 2003,
+    "decade": 2000,
+    "country": "Taiwan",
+    "genre": "Hip Hop",
+    "styles": [],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "AVCD",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 4,
+    "want": 8
+  },
+  {
+    "id": "38535918",
+    "title": "Under Construction = 建構中",
+    "artist": "Missy Elliott",
+    "year": 2002,
+    "decade": 2000,
+    "country": "Taiwan",
+    "genre": "Hip Hop",
+    "styles": [
+      "Contemporary R&B",
+      "Pop Rap"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 0,
+    "want": 0
+  },
+  {
+    "id": "1194706",
+    "title": "We Run This",
+    "artist": "Missy Elliott",
+    "year": 2006,
+    "decade": 2000,
+    "country": "Europe",
+    "genre": "Hip Hop",
+    "styles": [],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 37,
+    "want": 15
+  },
+  {
+    "id": "9397044",
+    "title": "Beat Biters",
+    "artist": "Missy Elliott",
+    "year": 1999,
+    "decade": 1990,
+    "country": "US",
+    "genre": "Hip Hop",
+    "styles": [],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "12\"",
+      "33 ⅓ RPM",
+      "Single",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 25,
+    "want": 31
+  },
+  {
+    "id": "3639181",
+    "title": "We Run This",
+    "artist": "Missy Elliott",
+    "year": 2005,
+    "decade": 2000,
+    "country": "Australia",
+    "genre": "Electronic; Hip Hop",
+    "styles": [
+      "Hip Hop",
+      "Tech House"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Single"
+    ],
+    "collectible_tier": "none",
+    "have": 24,
+    "want": 16
+  },
+  {
+    "id": "15212832",
+    "title": "Lioness: Hidden Treasures = 藏絲精選",
+    "artist": "Amy Winehouse",
+    "year": 2011,
+    "decade": 2010,
+    "country": "Taiwan",
+    "genre": "Rock; Funk / Soul; Pop",
+    "styles": [
+      "Soul",
+      "Rhythm & Blues",
+      "Ballad",
+      "Vocal"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 2,
+    "want": 64
+  },
+  {
+    "id": "4521151",
+    "title": "Our Day Will Come",
+    "artist": "Amy Winehouse",
+    "year": 2011,
+    "decade": 2010,
+    "country": "Netherlands",
+    "genre": "Reggae",
+    "styles": [],
+    "formats": [
+      "CDr"
+    ],
+    "format_descriptions": [
+      "Single",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 18,
+    "want": 34
+  },
+  {
+    "id": "6228544",
+    "title": "Rehab / Me & Mr Jones",
+    "artist": "Amy Winehouse",
+    "year": 2007,
+    "decade": 2000,
+    "country": "Germany",
+    "genre": "Jazz; Funk / Soul",
+    "styles": [
+      "Soul-Jazz",
+      "Rhythm & Blues"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "7\"",
+      "45 RPM",
+      "Limited Edition",
+      "Unofficial Release"
+    ],
+    "collectible_tier": "high",
+    "have": 13,
+    "want": 507
+  },
+  {
+    "id": "8997239",
+    "title": "Lioness: Hidden Treasures",
+    "artist": "Amy Winehouse",
+    "year": 2011,
+    "decade": 2010,
+    "country": "Japan",
+    "genre": "Reggae; Funk / Soul; Pop",
+    "styles": [],
+    "formats": [
+      "DVDr"
+    ],
+    "format_descriptions": [
+      "NTSC",
+      "Compilation",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 3,
+    "want": 14
+  },
+  {
+    "id": "28834558",
+    "title": "Back To Black - Remixes",
+    "artist": "Amy Winehouse",
+    "year": 2007,
+    "decade": 2000,
+    "country": "Brazil",
+    "genre": "Funk / Soul",
+    "styles": [
+      "Soul"
+    ],
+    "formats": [
+      "CDr"
+    ],
+    "format_descriptions": [
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 3,
+    "want": 4
+  },
+  {
+    "id": "3614965",
+    "title": "Suck It And See",
+    "artist": "Arctic Monkeys",
+    "year": 2011,
+    "decade": 2010,
+    "country": "UK",
+    "genre": "Rock",
+    "styles": [
+      "Alternative Rock"
+    ],
+    "formats": [
+      "CDr"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Promo",
+      "Copy Protected"
+    ],
+    "collectible_tier": "high",
+    "have": 9,
+    "want": 109
+  },
+  {
+    "id": "4982677",
+    "title": "Teddy Picker",
+    "artist": "Arctic Monkeys",
+    "year": 2007,
+    "decade": 2000,
+    "country": "UK",
+    "genre": "Rock",
+    "styles": [
+      "Indie Rock",
+      "Alternative Rock"
+    ],
+    "formats": [
+      "DVDr"
+    ],
+    "format_descriptions": [
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 8,
+    "want": 33
+  },
+  {
+    "id": "1979906",
+    "title": "Humbug",
+    "artist": "Arctic Monkeys",
+    "year": 2009,
+    "decade": 2000,
+    "country": "US",
+    "genre": "Rock",
+    "styles": [
+      "Indie Rock",
+      "Stoner Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 7739,
+    "want": 1744
+  },
+  {
+    "id": "36074224",
+    "title": "Graduation = グラデュエーション",
+    "artist": "Kanye West",
+    "year": 2009,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Hip Hop",
+    "styles": [
+      "Pop Rap",
+      "Electro"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Enhanced",
+      "Reissue"
+    ],
+    "collectible_tier": "low",
+    "have": 8,
+    "want": 78
+  },
+  {
+    "id": "20958076",
+    "title": "Graduation = 畢業特典",
+    "artist": "Kanye West",
+    "year": 2007,
+    "decade": 2000,
+    "country": "Taiwan",
+    "genre": "Hip Hop",
+    "styles": [
+      "Pop Rap"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 5,
+    "want": 238
+  },
+  {
+    "id": "34509094",
+    "title": "Graduation",
+    "artist": "Kanye West",
+    "year": 2007,
+    "decade": 2000,
+    "country": "South Korea",
+    "genre": "Hip Hop; Funk / Soul",
+    "styles": [
+      "Contemporary R&B",
+      "Pop Rap"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 1,
+    "want": 85
+  },
+  {
+    "id": "15074685",
+    "title": "Graduation = グラデュエーション",
+    "artist": "Kanye West",
+    "year": 2007,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Hip Hop",
+    "styles": [
+      "Pop Rap",
+      "Electro",
+      "Conscious"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Enhanced",
+      "Promo"
+    ],
+    "collectible_tier": "high",
+    "have": 57,
+    "want": 574
+  },
+  {
+    "id": "3021163",
+    "title": "Graduation = グラデュエーション",
+    "artist": "Kanye West",
+    "year": 2007,
+    "decade": 2000,
+    "country": "Japan",
+    "genre": "Hip Hop",
+    "styles": [
+      "Pop Rap",
+      "Electro",
+      "Conscious"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Enhanced"
+    ],
+    "collectible_tier": "none",
+    "have": 1029,
+    "want": 1566
+  },
+  {
+    "id": "23867492",
+    "title": "Mr. Morale & The Big Steppers = 士氣先生&幹大事者",
+    "artist": "Kendrick Lamar",
+    "year": 2022,
+    "decade": 2020,
+    "country": "Taiwan",
+    "genre": "Hip Hop; Jazz; Funk / Soul",
+    "styles": [
+      "Conscious",
+      "Trap",
+      "Jazzy Hip-Hop",
+      "Neo Soul",
+      "Contemporary R&B",
+      "Experimental"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Stereo"
+    ],
+    "collectible_tier": "none",
+    "have": 7,
+    "want": 115
+  },
+  {
+    "id": "36127948",
+    "title": "GNX",
+    "artist": "Kendrick Lamar",
+    "year": 2025,
+    "decade": 2020,
+    "country": "Europe",
+    "genre": "Hip Hop; Funk / Soul",
+    "styles": [
+      "Conscious",
+      "Contemporary R&B",
+      "Hardcore Hip-Hop"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "12\"",
+      "33 ⅓ RPM",
+      "Picture Disc",
+      "Unofficial Release"
+    ],
+    "collectible_tier": "high",
+    "have": 12,
+    "want": 11
+  },
+  {
+    "id": "11565893",
+    "title": "Damn",
+    "artist": "Kendrick Lamar",
+    "year": 2017,
+    "decade": 2010,
+    "country": "Europe",
+    "genre": "Hip Hop",
+    "styles": [
+      "Conscious"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Numbered"
+    ],
+    "collectible_tier": "high",
+    "have": 484,
+    "want": 559
+  },
+  {
+    "id": "15595595",
+    "title": "Patience",
+    "artist": "Tame Impala",
+    "year": 2020,
+    "decade": 2020,
+    "country": "Russia",
+    "genre": "Electronic; Rock; Pop",
+    "styles": [
+      "Synth-pop",
+      "Psychedelic Rock"
+    ],
+    "formats": [
+      "CDr"
+    ],
+    "format_descriptions": [
+      "Mini",
+      "Business Card",
+      "Single",
+      "Limited Edition",
+      "Unofficial Release"
+    ],
+    "collectible_tier": "high",
+    "have": 2,
+    "want": 40
+  },
+  {
+    "id": "2787747",
+    "title": "Innerspeaker",
+    "artist": "Tame Impala",
+    "year": 2010,
+    "decade": 2010,
+    "country": "UK",
+    "genre": "Rock",
+    "styles": [
+      "Psychedelic Rock"
+    ],
+    "formats": [
+      "CD",
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Enhanced",
+      "Limited Edition"
+    ],
+    "collectible_tier": "high",
+    "have": 113,
+    "want": 446
+  },
+  {
+    "id": "8495412",
+    "title": "Lonerism",
+    "artist": "Tame Impala",
+    "year": 2012,
+    "decade": 2010,
+    "country": "Japan",
+    "genre": "Rock",
+    "styles": [
+      "Psychedelic Rock",
+      "Indie Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 57,
+    "want": 400
+  },
+  {
+    "id": "16525659",
+    "title": "Dont Smile At Me + 5 - Japan Complete Edition = ドント・スマイル・アット・ミー +5 コンプリート・エディション",
+    "artist": "Billie Eilish",
+    "year": 2020,
+    "decade": 2020,
+    "country": "Japan",
+    "genre": "Electronic; Pop",
+    "styles": [
+      "Indie Pop",
+      "Downtempo",
+      "Dark Ambient",
+      "Breaks"
+    ],
+    "formats": [
+      "CD",
+      "Blu-ray"
+    ],
+    "format_descriptions": [
+      "EP",
+      "Reissue",
+      "Stereo"
+    ],
+    "collectible_tier": "low",
+    "have": 144,
+    "want": 197
+  },
+  {
+    "id": "14716540",
+    "title": "When We All Fall Asleep, Where Do We Go? = 當我們睡了 怪事發生了",
+    "artist": "Billie Eilish",
+    "year": 2019,
+    "decade": 2010,
+    "country": "Taiwan",
+    "genre": "Electronic; Pop",
+    "styles": [
+      "Indie Pop",
+      "Trap"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 12,
+    "want": 182
+  },
+  {
+    "id": "16598367",
+    "title": "When We All Fall Asleep, Where Do We Go? - Japan Complete Edition = ホエン・ウィ・オール・フォール・アスリープ、ホエア・ドゥ・ウィ・ゴー? コンプリート・エディション",
+    "artist": "Billie Eilish",
+    "year": 2020,
+    "decade": 2020,
+    "country": "Japan",
+    "genre": "Electronic; Pop",
+    "styles": [
+      "Trap",
+      "Indie Pop"
+    ],
+    "formats": [
+      "CD",
+      "Blu-ray"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue",
+      "Stereo"
+    ],
+    "collectible_tier": "low",
+    "have": 165,
+    "want": 320
+  },
+  {
+    "id": "19867288",
+    "title": "Happier Than Ever = 怪樂的不得了",
+    "artist": "Billie Eilish",
+    "year": 2021,
+    "decade": 2020,
+    "country": "Taiwan",
+    "genre": "Electronic; Rock; Pop",
+    "styles": [
+      "Indie Pop",
+      "Alternative Rock",
+      "Electro",
+      "Downtempo"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Limited Edition"
+    ],
+    "collectible_tier": "high",
+    "have": 16,
+    "want": 125
+  },
+  {
+    "id": "15310330",
+    "title": "Dont Smile At Me = 不要对我笑",
+    "artist": "Billie Eilish",
+    "year": 2019,
+    "decade": 2010,
+    "country": "China",
+    "genre": "Electronic; Pop",
+    "styles": [
+      "Indie Pop"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "EP"
+    ],
+    "collectible_tier": "none",
+    "have": 15,
+    "want": 93
+  },
+  {
+    "id": "6534663",
+    "title": "The Double EP: A Sea Of Split Peas",
+    "artist": "Courtney Barnett",
+    "year": 2014,
+    "decade": 2010,
+    "country": "US",
+    "genre": "Rock",
+    "styles": [
+      "Alternative Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "EP",
+      "Compilation"
+    ],
+    "collectible_tier": "none",
+    "have": 4956,
+    "want": 471
+  },
+  {
+    "id": "14692370",
+    "title": "MTV Unplugged",
+    "artist": "Courtney Barnett",
+    "year": 2020,
+    "decade": 2020,
+    "country": "US",
+    "genre": "Rock",
+    "styles": [
+      "Indie Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Album",
+      "Limited Edition"
+    ],
+    "collectible_tier": "high",
+    "have": 1847,
+    "want": 207
+  },
+  {
+    "id": "12050026",
+    "title": "Tell Me How You Really Feel",
+    "artist": "Courtney Barnett",
+    "year": 2018,
+    "decade": 2010,
+    "country": "Europe",
+    "genre": "Rock",
+    "styles": [
+      "Alternative Rock"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 562,
+    "want": 103
+  },
+  {
+    "id": "36891775",
+    "title": "Creature Of Habit",
+    "artist": "Courtney Barnett",
+    "year": 2026,
+    "decade": 2020,
+    "country": "UK",
+    "genre": "Rock",
+    "styles": [
+      "Alternative Rock"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Album",
+      "Limited Edition",
+      "Numbered"
+    ],
+    "collectible_tier": "high",
+    "have": 204,
+    "want": 63
+  },
+  {
+    "id": "38296602",
+    "title": "Goblin = ゴブリン",
+    "artist": "Tyler, The Creator",
+    "year": 2026,
+    "decade": 2020,
+    "country": "Japan",
+    "genre": "Hip Hop",
+    "styles": [
+      "Hardcore Hip-Hop",
+      "Horrorcore"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album",
+      "Reissue"
+    ],
+    "collectible_tier": "low",
+    "have": 1,
+    "want": 3
+  },
+  {
+    "id": "25568107",
+    "title": "Wolf ",
+    "artist": "Tyler, The Creator",
+    "year": 2022,
+    "decade": 2020,
+    "country": "US",
+    "genre": "Hip Hop",
+    "styles": [
+      "Jazzy Hip-Hop",
+      "Hardcore Hip-Hop",
+      "Horrorcore",
+      "Pop Rap"
+    ],
+    "formats": [
+      "Vinyl"
+    ],
+    "format_descriptions": [
+      "LP",
+      "Album",
+      "Unofficial Release"
+    ],
+    "collectible_tier": "none",
+    "have": 132,
+    "want": 190
+  },
+  {
+    "id": "7543333",
+    "title": "Cherry Bomb",
+    "artist": "Tyler, The Creator",
+    "year": 2015,
+    "decade": 2010,
+    "country": "US",
+    "genre": "Hip Hop; Funk / Soul",
+    "styles": [
+      "Hardcore Hip-Hop",
+      "Neo Soul"
+    ],
+    "formats": [
+      "CD"
+    ],
+    "format_descriptions": [
+      "Album"
+    ],
+    "collectible_tier": "none",
+    "have": 379,
+    "want": 520
+  }
+]

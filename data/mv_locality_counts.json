@@ -1,0 +1,156 @@
+[
+  {
+    "locality": "Melbourne",
+    "items": 35,
+    "lat": -37.8136,
+    "lng": 144.9631,
+    "in_australia": true
+  },
+  {
+    "locality": "Carlton",
+    "items": 21,
+    "lat": -37.8,
+    "lng": 144.9667,
+    "in_australia": true
+  },
+  {
+    "locality": "Sydney",
+    "items": 12,
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "in_australia": true
+  },
+  {
+    "locality": "Kew",
+    "items": 5,
+    "lat": -37.8068,
+    "lng": 145.0313,
+    "in_australia": true
+  },
+  {
+    "locality": "London",
+    "items": 3,
+    "lat": 51.5072,
+    "lng": -0.1276,
+    "in_australia": false
+  },
+  {
+    "locality": "Hayes",
+    "items": 3,
+    "lat": -37.9333,
+    "lng": 145.2333,
+    "in_australia": true
+  },
+  {
+    "locality": "Yallourn",
+    "items": 2,
+    "lat": -38.1667,
+    "lng": 146.3333,
+    "in_australia": true
+  },
+  {
+    "locality": "Paris",
+    "items": 2,
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "in_australia": false
+  },
+  {
+    "locality": "North Carlton",
+    "items": 1,
+    "lat": -37.79,
+    "lng": 144.9667,
+    "in_australia": true
+  },
+  {
+    "locality": "Brunswick",
+    "items": 1,
+    "lat": -37.7667,
+    "lng": 144.9594,
+    "in_australia": true
+  },
+  {
+    "locality": "Sunbury",
+    "items": 1,
+    "lat": -37.5786,
+    "lng": 144.7281,
+    "in_australia": true
+  },
+  {
+    "locality": "Bulleen",
+    "items": 1,
+    "lat": -37.7667,
+    "lng": 145.0833,
+    "in_australia": true
+  },
+  {
+    "locality": "Orange",
+    "items": 1,
+    "lat": -33.2833,
+    "lng": 149.1,
+    "in_australia": true
+  },
+  {
+    "locality": "Cape Town",
+    "items": 1,
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "in_australia": false
+  },
+  {
+    "locality": "Berwick",
+    "items": 1,
+    "lat": -38.0333,
+    "lng": 145.35,
+    "in_australia": true
+  },
+  {
+    "locality": "Rushcutters Bay",
+    "items": 1,
+    "lat": -33.875,
+    "lng": 151.2278,
+    "in_australia": true
+  },
+  {
+    "locality": "Chicago",
+    "items": 1,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "in_australia": false
+  },
+  {
+    "locality": "Brighton",
+    "items": 1,
+    "lat": -37.9067,
+    "lng": 144.9958,
+    "in_australia": true
+  },
+  {
+    "locality": "Calcutta",
+    "items": 1,
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "in_australia": false
+  },
+  {
+    "locality": "Kunanalling",
+    "items": 1,
+    "lat": -30.6333,
+    "lng": 121.0667,
+    "in_australia": true
+  },
+  {
+    "locality": "Sainte-Croix",
+    "items": 1,
+    "lat": 46.8167,
+    "lng": 6.5,
+    "in_australia": false
+  },
+  {
+    "locality": "New York",
+    "items": 1,
+    "lat": 40.7128,
+    "lng": -74.006,
+    "in_australia": false
+  }
+]

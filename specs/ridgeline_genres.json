@@ -1,0 +1,122 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 56,
+  "data": {
+    "url": "data/discogs_final.json"
+  },
+  "transform": [
+    {
+      "calculate": "split(datum.genre, '; ')[0]",
+      "as": "main_genre"
+    },
+    {
+      "filter": {
+        "field": "main_genre",
+        "oneOf": [
+          "Rock",
+          "Hip Hop",
+          "Electronic"
+        ]
+      }
+    },
+    {
+      "density": "year",
+      "groupby": [
+        "main_genre"
+      ],
+      "extent": [
+        1960,
+        2025
+      ],
+      "bandwidth": 5,
+      "steps": 80
+    }
+  ],
+  "mark": {
+    "type": "area",
+    "fillOpacity": 0.85,
+    "stroke": "#FAF7F0",
+    "strokeWidth": 1
+  },
+  "encoding": {
+    "x": {
+      "field": "value",
+      "type": "quantitative",
+      "title": "Release year",
+      "axis": {
+        "format": "d",
+        "tickCount": 7
+      },
+      "scale": {
+        "domain": [
+          1960,
+          2025
+        ]
+      }
+    },
+    "y": {
+      "field": "density",
+      "type": "quantitative",
+      "axis": null,
+      "scale": {
+        "range": [
+          56,
+          -34
+        ]
+      }
+    },
+    "fill": {
+      "field": "main_genre",
+      "type": "nominal",
+      "legend": null,
+      "scale": {
+        "domain": [
+          "Rock",
+          "Hip Hop",
+          "Electronic"
+        ],
+        "range": [
+          "#7A2E3B",
+          "#B8872B",
+          "#1C2340"
+        ]
+      }
+    },
+    "row": {
+      "field": "main_genre",
+      "type": "nominal",
+      "title": null,
+      "sort": [
+        "Rock",
+        "Hip Hop",
+        "Electronic"
+      ],
+      "header": {
+        "labelAngle": 0,
+        "labelAlign": "left",
+        "labelFont": "Bebas Neue, sans-serif",
+        "labelFontSize": 18,
+        "labelColor": "#1C2340",
+        "labelPadding": -2
+      }
+    }
+  },
+  "spacing": -20,
+  "config": {
+    "axis": {
+      "labelFont": "Spectral, Georgia, serif",
+      "titleFont": "Spectral, Georgia, serif"
+    },
+    "legend": {
+      "labelFont": "Spectral, Georgia, serif",
+      "titleFont": "Spectral, Georgia, serif"
+    },
+    "view": {
+      "stroke": null
+    },
+    "facet": {
+      "spacing": -20
+    }
+  }
+}

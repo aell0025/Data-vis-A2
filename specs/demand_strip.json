@@ -1,0 +1,148 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 260,
+  "data": {
+    "url": "data/discogs_final.json"
+  },
+  "transform": [
+    {
+      "filter": "datum.have > 0 && datum.want > 0"
+    },
+    {
+      "calculate": "datum.want / datum.have",
+      "as": "ratio"
+    },
+    {
+      "calculate": "random()",
+      "as": "jitter"
+    }
+  ],
+  "encoding": {
+    "y": {
+      "field": "collectible_tier",
+      "type": "nominal",
+      "title": null,
+      "sort": [
+        "none",
+        "low",
+        "high"
+      ]
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "circle",
+        "size": 55,
+        "opacity": 0.55
+      },
+      "encoding": {
+        "x": {
+          "field": "ratio",
+          "type": "quantitative",
+          "scale": {
+            "type": "log"
+          },
+          "title": "Collectors wanting a copy, per collector who owns one (log scale)",
+          "axis": {
+            "values": [
+              0.1,
+              1,
+              10,
+              100,
+              1000
+            ],
+            "format": "~g",
+            "grid": true
+          }
+        },
+        "yOffset": {
+          "field": "jitter",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "collectible_tier",
+          "type": "nominal",
+          "legend": null,
+          "sort": [
+            "none",
+            "low",
+            "high"
+          ],
+          "scale": {
+            "domain": [
+              "none",
+              "low",
+              "high"
+            ],
+            "range": [
+              "#9A8F73",
+              "#B8872B",
+              "#7A2E3B"
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "title"
+          },
+          {
+            "field": "artist"
+          },
+          {
+            "field": "have"
+          },
+          {
+            "field": "want"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "aggregate": [
+            {
+              "op": "median",
+              "field": "ratio",
+              "as": "median_ratio"
+            }
+          ],
+          "groupby": [
+            "collectible_tier"
+          ]
+        }
+      ],
+      "mark": {
+        "type": "tick",
+        "color": "#1C2340",
+        "thickness": 3,
+        "size": 60
+      },
+      "encoding": {
+        "x": {
+          "field": "median_ratio",
+          "type": "quantitative",
+          "scale": {
+            "type": "log"
+          },
+          "axis": null
+        }
+      }
+    }
+  ],
+  "config": {
+    "axis": {
+      "labelFont": "Spectral, Georgia, serif",
+      "titleFont": "Spectral, Georgia, serif"
+    },
+    "legend": {
+      "labelFont": "Spectral, Georgia, serif",
+      "titleFont": "Spectral, Georgia, serif"
+    },
+    "view": {
+      "stroke": null
+    }
+  }
+}

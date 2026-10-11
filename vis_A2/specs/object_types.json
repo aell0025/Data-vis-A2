@@ -1,0 +1,51 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 420,
+  "data": {
+    "url": "data/mv_final.json"
+  },
+  "transform": [
+    {
+      "aggregate": [
+        {
+          "op": "count",
+          "as": "count"
+        }
+      ],
+      "groupby": [
+        "object_type"
+      ]
+    },
+    {
+      "filter": "datum.count >= 2"
+    }
+  ],
+  "mark": {
+    "type": "bar",
+    "color": "#7A2E3B"
+  },
+  "encoding": {
+    "y": {
+      "field": "object_type",
+      "type": "nominal",
+      "sort": "-x",
+      "title": null
+    },
+    "x": {
+      "field": "count",
+      "type": "quantitative",
+      "title": "Items held"
+    }
+  },
+  "config": {
+    "axis": {
+      "labelFont": "Spectral, Georgia, serif",
+      "titleFont": "Spectral, Georgia, serif"
+    },
+    "legend": {
+      "labelFont": "Spectral, Georgia, serif",
+      "titleFont": "Spectral, Georgia, serif"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "country": "Japan",
+    "releases": 87,
+    "high_tier": 32
+  },
+  {
+    "country": "Taiwan",
+    "releases": 13,
+    "high_tier": 2
+  },
+  {
+    "country": "United States of America",
+    "releases": 11,
+    "high_tier": 4
+  },
+  {
+    "country": "Russia",
+    "releases": 8,
+    "high_tier": 1
+  },
+  {
+    "country": "South Korea",
+    "releases": 7,
+    "high_tier": 1
+  },
+  {
+    "country": "United Kingdom",
+    "releases": 5,
+    "high_tier": 4
+  },
+  {
+    "country": "China",
+    "releases": 5,
+    "high_tier": 0
+  },
+  {
+    "country": "Canada",
+    "releases": 2,
+    "high_tier": 0
+  },
+  {
+    "country": "Argentina",
+    "releases": 1,
+    "high_tier": 1
+  },
+  {
+    "country": "Italy",
+    "releases": 1,
+    "high_tier": 0
+  },
+  {
+    "country": "Bulgaria",
+    "releases": 1,
+    "high_tier": 0
+  },
+  {
+    "country": "Australia",
+    "releases": 1,
+    "high_tier": 0
+  },
+  {
+    "country": "Netherlands",
+    "releases": 1,
+    "high_tier": 1
+  },
+  {
+    "country": "Germany",
+    "releases": 1,
+    "high_tier": 1
+  },
+  {
+    "country": "Brazil",
+    "releases": 1,
+    "high_tier": 1
+  }
+]

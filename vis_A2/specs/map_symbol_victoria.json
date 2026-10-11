@@ -1,0 +1,116 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 460,
+  "projection": {
+    "type": "mercator",
+    "center": [
+      145.5,
+      -36.7
+    ],
+    "scale": 3700
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/au-states.geojson"
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#E6D9B8",
+        "stroke": "#B8872B",
+        "strokeWidth": 0.8
+      }
+    },
+    {
+      "data": {
+        "url": "data/mv_locality_counts.json"
+      },
+      "transform": [
+        {
+          "filter": "datum.in_australia && datum.lng > 140.9 && datum.lng < 150 && datum.lat < -34 && datum.lat > -39.2"
+        }
+      ],
+      "mark": {
+        "type": "circle",
+        "fill": "#7A2E3B",
+        "fillOpacity": 0.6,
+        "stroke": "#FAF7F0",
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "longitude": {
+          "field": "lng",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        },
+        "size": {
+          "field": "items",
+          "type": "quantitative",
+          "scale": {
+            "range": [
+              50,
+              1600
+            ]
+          },
+          "legend": {
+            "title": "Items"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "locality"
+          },
+          {
+            "field": "items"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/mv_locality_counts.json"
+      },
+      "transform": [
+        {
+          "filter": "datum.locality === 'Melbourne'"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 18,
+        "fontSize": 12,
+        "color": "#1C2340",
+        "dy": -14,
+        "fontWeight": "bold"
+      },
+      "encoding": {
+        "longitude": {
+          "field": "lng",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "locality"
+        }
+      }
+    }
+  ],
+  "config": {
+    "axis": {
+      "labelFont": "Spectral, Georgia, serif",
+      "titleFont": "Spectral, Georgia, serif"
+    },
+    "legend": {
+      "labelFont": "Spectral, Georgia, serif",
+      "titleFont": "Spectral, Georgia, serif"
+    }
+  }
+}

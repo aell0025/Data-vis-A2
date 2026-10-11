@@ -1,0 +1,141 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 380,
+  "data": {
+    "url": "data/discogs_final.json"
+  },
+  "transform": [
+    {
+      "flatten": [
+        "styles"
+      ]
+    },
+    {
+      "filter": {
+        "field": "styles",
+        "oneOf": [
+          "Synth-pop",
+          "Soul",
+          "Alternative Rock",
+          "Pop Rock",
+          "Electro",
+          "Psychedelic Rock",
+          "Hard Rock",
+          "Classic Rock",
+          "Blues Rock",
+          "House",
+          "Indie Rock",
+          "Pop Rap"
+        ]
+      }
+    },
+    {
+      "aggregate": [
+        {
+          "op": "count",
+          "as": "n"
+        }
+      ],
+      "groupby": [
+        "styles",
+        "decade"
+      ]
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "decade",
+      "type": "ordinal",
+      "title": "Decade",
+      "axis": {
+        "labelAngle": 0
+      }
+    },
+    "y": {
+      "field": "styles",
+      "type": "nominal",
+      "title": null,
+      "sort": [
+        "Synth-pop",
+        "Soul",
+        "Alternative Rock",
+        "Pop Rock",
+        "Electro",
+        "Psychedelic Rock",
+        "Hard Rock",
+        "Classic Rock",
+        "Blues Rock",
+        "House",
+        "Indie Rock",
+        "Pop Rap"
+      ]
+    }
+  },
+  "layer": [
+    {
+      "mark": "rect",
+      "encoding": {
+        "color": {
+          "field": "n",
+          "type": "quantitative",
+          "title": "Releases",
+          "scale": {
+            "range": [
+              "#F3EBD6",
+              "#E3C77A",
+              "#B8872B",
+              "#7A2E3B",
+              "#1C2340"
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "styles",
+            "title": "Style"
+          },
+          {
+            "field": "decade"
+          },
+          {
+            "field": "n",
+            "title": "Releases"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "fontSize": 11
+      },
+      "encoding": {
+        "text": {
+          "field": "n",
+          "type": "quantitative"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.n >= 4",
+            "value": "#FAF7F0"
+          },
+          "value": "#2B2B28"
+        }
+      }
+    }
+  ],
+  "config": {
+    "axis": {
+      "labelFont": "Spectral, Georgia, serif",
+      "titleFont": "Spectral, Georgia, serif"
+    },
+    "legend": {
+      "labelFont": "Spectral, Georgia, serif",
+      "titleFont": "Spectral, Georgia, serif"
+    },
+    "view": {
+      "stroke": null
+    }
+  }
+}

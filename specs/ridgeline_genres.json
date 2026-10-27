@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": "container",
+  "width": "390",
   "height": 56,
   "data": {
     "url": "data/discogs_final.json"

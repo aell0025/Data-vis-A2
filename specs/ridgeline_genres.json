@@ -62,7 +62,7 @@
       "scale": {
         "range": [
           56,
-          -34
+          -10
         ]
       }
     },
@@ -98,11 +98,11 @@
         "labelFont": "Bebas Neue, sans-serif",
         "labelFontSize": 18,
         "labelColor": "#1C2340",
-        "labelPadding": -2
+        "labelPadding": -6
       }
     }
   },
-  "spacing": -20,
+  "spacing": -5,
   "config": {
     "axis": {
       "labelFont": "Spectral, Georgia, serif",

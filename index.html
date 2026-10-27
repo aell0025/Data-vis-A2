@@ -184,7 +184,7 @@
     '#chart-tier-stream': 'specs/tier_stream.json',
     '#map-choropleth': 'specs/map_choropleth.json',
     '#chart-heatmap': 'specs/heatmap_styles.json',
-    '#chart-ridge': 'specs/ridgeline_genres.json',
+    // '#chart-ridge': 'specs/ridgeline_genres.json',
     '#chart-demand': 'specs/demand_strip.json',
     '#chart-artists': 'specs/artist_tiers.json',
     '#chart-sankey': 'specs/sankey_flow.json',
@@ -192,6 +192,7 @@
   };
   Object.entries(charts).forEach(([el, url]) =>
     vegaEmbed(el, url, {actions: false}).catch(console.error));
+  
     fetch('specs/ridgeline_genres.json')
     .then(r => r.json())
     .then(spec => {

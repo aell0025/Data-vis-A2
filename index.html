@@ -192,6 +192,13 @@
   };
   Object.entries(charts).forEach(([el, url]) =>
     vegaEmbed(el, url, {actions: false}).catch(console.error));
+    fetch('specs/ridgeline_genres.json')
+    .then(r => r.json())
+    .then(spec => {
+      spec.width = Math.max(200, document.querySelector('#chart-ridge').clientWidth - 100);
+      return vegaEmbed('#chart-ridge', spec, {actions: false});
+  })
+  .catch(console.error);
 </script>
 
 </body>

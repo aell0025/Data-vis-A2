@@ -95,7 +95,6 @@ h2.act {
 .act-note { max-width: 680px; margin: 4px 0 0; }
 
 .chart { min-width: 0; }
-.chart canvas, .chart svg { max-width: 100%; height: auto; }
 
 @media (max-width: 800px) {
   section.flip,

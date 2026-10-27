@@ -21,10 +21,6 @@
       "filter": "datum.count >= 2"
     }
   ],
-  "mark": {
-    "type": "bar",
-    "color": "#7A2E3B"
-  },
   "encoding": {
     "y": {
       "field": "object_type",
@@ -35,17 +31,61 @@
     "x": {
       "field": "count",
       "type": "quantitative",
-      "title": "Items held"
+      "title": "Items held",
+      "scale": {
+        "domain": [
+          0,
+          56
+        ]
+      },
+      "axis": {
+        "tickMinStep": 10
+      }
     }
   },
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "color": "#7A2E3B"
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "object_type",
+            "title": "Object type"
+          },
+          {
+            "field": "count",
+            "title": "Items held"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 4,
+        "font": "Spectral, Georgia, serif",
+        "fontSize": 12,
+        "color": "#2B2B28"
+      },
+      "encoding": {
+        "text": {
+          "field": "count",
+          "type": "quantitative"
+        }
+      }
+    }
+  ],
   "config": {
     "axis": {
       "labelFont": "Spectral, Georgia, serif",
       "titleFont": "Spectral, Georgia, serif"
     },
-    "legend": {
-      "labelFont": "Spectral, Georgia, serif",
-      "titleFont": "Spectral, Georgia, serif"
+    "view": {
+      "stroke": null
     }
   }
 }

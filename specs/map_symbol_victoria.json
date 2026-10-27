@@ -1,25 +1,79 @@
+Claude
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Map symbol victoria · JSON
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": "container",
-  "height": 460,
+  "height": 440,
   "projection": {
-    "type": "mercator",
-    "center": [
-      145.5,
-      -36.7
-    ],
-    "scale": 3700
+    "type": "mercator"
   },
   "layer": [
     {
       "data": {
-        "url": "data/au-states.geojson"
+        "url": "data/melbourne_suburbs.geojson",
+        "format": {
+          "type": "json",
+          "property": "features"
+        }
       },
+      "transform": [
+        {
+          "filter": "datum.properties.kind === 'sea'"
+        }
+      ],
       "mark": {
         "type": "geoshape",
-        "fill": "#E6D9B8",
-        "stroke": "#B8872B",
-        "strokeWidth": 0.8
+        "fill": "#DCE6E8"
+      }
+    },
+    {
+      "data": {
+        "url": "data/melbourne_suburbs.geojson",
+        "format": {
+          "type": "json",
+          "property": "features"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.properties.kind === 'suburb'"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#FAF7F0",
+        "strokeWidth": 0.6
+      },
+      "encoding": {
+        "fill": {
+          "condition": {
+            "test": "datum.properties.has_items",
+            "value": "#D9C58F"
+          },
+          "value": "#EADFC3"
+        },
+        "tooltip": [
+          {
+            "field": "properties.name",
+            "title": "Suburb"
+          }
+        ]
       }
     },
     {
@@ -28,7 +82,7 @@
       },
       "transform": [
         {
-          "filter": "datum.in_australia && datum.lng > 140.9 && datum.lng < 150 && datum.lat < -34 && datum.lat > -39.2"
+          "filter": "datum.in_australia && datum.lng > 144.5 && datum.lng < 145.6 && datum.lat > -38.2 && datum.lat < -37.4"
         }
       ],
       "mark": {
@@ -53,19 +107,27 @@
           "scale": {
             "range": [
               50,
-              1600
+              1500
             ]
           },
           "legend": {
-            "title": "Items"
+            "title": "Items",
+            "orient": "bottom-right",
+            "values": [
+              1,
+              10,
+              30
+            ]
           }
         },
         "tooltip": [
           {
-            "field": "locality"
+            "field": "locality",
+            "title": "Place"
           },
           {
-            "field": "items"
+            "field": "items",
+            "title": "Items"
           }
         ]
       }
@@ -81,12 +143,79 @@
       ],
       "mark": {
         "type": "text",
-        "align": "left",
-        "dx": 18,
+        "align": "center",
+        "dx": 0,
+        "dy": 38,
+        "font": "Spectral, Georgia, serif",
         "fontSize": 12,
-        "color": "#1C2340",
-        "dy": -14,
-        "fontWeight": "bold"
+        "fontWeight": "bold",
+        "color": "#1C2340"
+      },
+      "encoding": {
+        "longitude": {
+          "field": "lng",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "locality"
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "data/mv_locality_counts.json"
+      },
+      "transform": [
+        {
+          "filter": "datum.locality === 'Carlton'"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "dx": 0,
+        "dy": -32,
+        "font": "Spectral, Georgia, serif",
+        "fontSize": 12,
+        "fontWeight": "bold",
+        "color": "#1C2340"
+      },
+      "encoding": {
+        "longitude": {
+          "field": "lng",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "locality"
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "data/mv_locality_counts.json"
+      },
+      "transform": [
+        {
+          "filter": "datum.locality === 'Kew'"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 14,
+        "dy": 4,
+        "font": "Spectral, Georgia, serif",
+        "fontSize": 12,
+        "fontWeight": "bold",
+        "color": "#1C2340"
       },
       "encoding": {
         "longitude": {
@@ -111,6 +240,9 @@
     "legend": {
       "labelFont": "Spectral, Georgia, serif",
       "titleFont": "Spectral, Georgia, serif"
+    },
+    "view": {
+      "stroke": null
     }
   }
 }

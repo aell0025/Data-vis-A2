@@ -37,9 +37,9 @@
   {
     "locality": "Hayes",
     "items": 3,
-    "lat": -37.9333,
-    "lng": 145.2333,
-    "in_australia": true
+    "lat": 51.5089,
+    "lng": -0.4217,
+    "in_australia": false
   },
   {
     "locality": "Yallourn",
@@ -86,9 +86,9 @@
   {
     "locality": "Orange",
     "items": 1,
-    "lat": -33.2833,
-    "lng": 149.1,
-    "in_australia": true
+    "lat": 40.7706,
+    "lng": -74.233,
+    "in_australia": false
   },
   {
     "locality": "Cape Town",

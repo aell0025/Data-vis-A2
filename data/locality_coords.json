@@ -1,24 +1,90 @@
 {
-  "Melbourne": {"lat": -37.8136, "lng": 144.9631},
-  "Carlton": {"lat": -37.8000, "lng": 144.9667},
-  "Sydney": {"lat": -33.8688, "lng": 151.2093},
-  "Kew": {"lat": -37.8068, "lng": 145.0313},
-  "London": {"lat": 51.5072, "lng": -0.1276},
-  "Hayes": {"lat": -37.9333, "lng": 145.2333},
-  "Yallourn": {"lat": -38.1667, "lng": 146.3333},
-  "Paris": {"lat": 48.8566, "lng": 2.3522},
-  "North Carlton": {"lat": -37.7900, "lng": 144.9667},
-  "Brunswick": {"lat": -37.7667, "lng": 144.9594},
-  "Sunbury": {"lat": -37.5786, "lng": 144.7281},
-  "Bulleen": {"lat": -37.7667, "lng": 145.0833},
-  "Orange": {"lat": -33.2833, "lng": 149.1000},
-  "Cape Town": {"lat": -33.9249, "lng": 18.4241},
-  "Berwick": {"lat": -38.0333, "lng": 145.3500},
-  "Rushcutters Bay": {"lat": -33.8750, "lng": 151.2278},
-  "Chicago": {"lat": 41.8781, "lng": -87.6298},
-  "Brighton": {"lat": -37.9067, "lng": 144.9958},
-  "Calcutta": {"lat": 22.5726, "lng": 88.3639},
-  "Kunanalling": {"lat": -30.6333, "lng": 121.0667},
-  "Sainte-Croix": {"lat": 46.8167, "lng": 6.5000},
-  "New York": {"lat": 40.7128, "lng": -74.0060}
+  "Melbourne": {
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  "Carlton": {
+    "lat": -37.8,
+    "lng": 144.9667
+  },
+  "Sydney": {
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  "Kew": {
+    "lat": -37.8068,
+    "lng": 145.0313
+  },
+  "London": {
+    "lat": 51.5072,
+    "lng": -0.1276
+  },
+  "Hayes": {
+    "lat": 51.5089,
+    "lng": -0.4217
+  },
+  "Yallourn": {
+    "lat": -38.1667,
+    "lng": 146.3333
+  },
+  "Paris": {
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  "North Carlton": {
+    "lat": -37.79,
+    "lng": 144.9667
+  },
+  "Brunswick": {
+    "lat": -37.7667,
+    "lng": 144.9594
+  },
+  "Sunbury": {
+    "lat": -37.5786,
+    "lng": 144.7281
+  },
+  "Bulleen": {
+    "lat": -37.7667,
+    "lng": 145.0833
+  },
+  "Orange": {
+    "lat": 40.7706,
+    "lng": -74.233
+  },
+  "Cape Town": {
+    "lat": -33.9249,
+    "lng": 18.4241
+  },
+  "Berwick": {
+    "lat": -38.0333,
+    "lng": 145.35
+  },
+  "Rushcutters Bay": {
+    "lat": -33.875,
+    "lng": 151.2278
+  },
+  "Chicago": {
+    "lat": 41.8781,
+    "lng": -87.6298
+  },
+  "Brighton": {
+    "lat": -37.9067,
+    "lng": 144.9958
+  },
+  "Calcutta": {
+    "lat": 22.5726,
+    "lng": 88.3639
+  },
+  "Kunanalling": {
+    "lat": -30.6333,
+    "lng": 121.0667
+  },
+  "Sainte-Croix": {
+    "lat": 46.8167,
+    "lng": 6.5
+  },
+  "New York": {
+    "lat": 40.7128,
+    "lng": -74.006
+  }
 }

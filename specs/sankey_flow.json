@@ -1,9 +1,53 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "width": 640,
   "height": 400,
-  "padding": 4,
-  "autosize": "pad",
+  "padding": 0,
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding"
+  },
+  "signals": [
+    {
+      "name": "width",
+      "init": "containerSize()[0] > 0 ? containerSize()[0] : 640",
+      "on": [
+        {
+          "events": "window:resize",
+          "update": "containerSize()[0] > 0 ? containerSize()[0] : 640"
+        }
+      ]
+    },
+    {
+      "name": "hovered",
+      "value": null,
+      "on": [
+        {
+          "events": "@node:mouseover",
+          "update": "datum.name"
+        },
+        {
+          "events": "@node:mouseout",
+          "update": "null"
+        }
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "xs",
+      "type": "linear",
+      "domain": [
+        46,
+        500
+      ],
+      "range": [
+        46,
+        {
+          "signal": "width - 140"
+        }
+      ]
+    }
+  ],
   "data": [
     {
       "name": "nodes",
@@ -27,17 +71,6 @@
     },
     {
       "name": "links",
-      "transform": [
-        {
-          "type": "linkpath",
-          "orient": "horizontal",
-          "shape": "diagonal",
-          "sourceX": "sx",
-          "sourceY": "sy",
-          "targetX": "tx",
-          "targetY": "ty"
-        }
-      ],
       "values": [
       {"source": "1970s", "target": "Rock", "value": 6, "sc": 0, "w": 13.33, "color": "#3F6FB5", "sx": 60, "sy": 32.23, "tx": 244, "ty": 29.99},
       {"source": "1980s", "target": "Rock", "value": 8, "sc": 0, "w": 17.78, "color": "#3F6FB5", "sx": 60, "sy": 73.33, "tx": 244, "ty": 45.55},
@@ -80,7 +113,28 @@
       {"source": "Other", "target": "Standard", "value": 5, "sc": 1, "w": 11.11, "color": "#6F7378", "sx": 340, "sy": 384.44, "tx": 500, "ty": 374.44},
       {"source": "Hip Hop", "target": "Reissue", "value": 4, "sc": 1, "w": 8.89, "color": "#8A4FA3", "sx": 340, "sy": 285.56, "tx": 500, "ty": 203.34},
       {"source": "Hip Hop", "target": "Special", "value": 8, "sc": 1, "w": 17.78, "color": "#8A4FA3", "sx": 340, "sy": 272.22, "tx": 500, "ty": 104.45}
-    ]
+    ],
+      "transform": [
+        {
+          "type": "formula",
+          "expr": "scale('xs', datum.sx - (datum.sc === 0 ? 14 : 96)) + (datum.sc === 0 ? 14 : 96)",
+          "as": "sxp"
+        },
+        {
+          "type": "formula",
+          "expr": "scale('xs', datum.tx)",
+          "as": "txp"
+        },
+        {
+          "type": "linkpath",
+          "orient": "horizontal",
+          "shape": "diagonal",
+          "sourceX": "sxp",
+          "sourceY": "sy",
+          "targetX": "txp",
+          "targetY": "ty"
+        }
+      ]
     },
     {
       "name": "n0",
@@ -127,6 +181,12 @@
           "stroke": {
             "field": "color"
           },
+          "strokeJoin": {
+            "value": "round"
+          },
+          "strokeCap": {
+            "value": "butt"
+          },
           "strokeWidth": {
             "field": "w"
           },
@@ -150,13 +210,14 @@
       "from": {
         "data": "nodes"
       },
+      "interactive": false,
       "encode": {
         "update": {
           "x": {
-            "field": "x0"
+            "signal": "scale('xs', datum.x0)"
           },
-          "x2": {
-            "field": "x1"
+          "width": {
+            "signal": "datum.x1 - datum.x0"
           },
           "y": {
             "field": "y0"
@@ -166,22 +227,16 @@
           },
           "fill": {
             "field": "color"
-          },
-          "tooltip": {
-            "signal": "datum.name + ': ' + datum.value + ' releases'"
-          },
-          "cursor": {
-            "value": "pointer"
           }
         }
-      },
-      "name": "node"
+      }
     },
     {
       "type": "text",
       "from": {
         "data": "n0"
       },
+      "interactive": false,
       "encode": {
         "enter": {
           "font": {
@@ -199,7 +254,7 @@
         },
         "update": {
           "x": {
-            "signal": "datum.x0 + -6"
+            "signal": "scale('xs', datum.x0) - 6"
           },
           "y": {
             "signal": "(datum.y0 + datum.y1) / 2"
@@ -218,6 +273,7 @@
       "from": {
         "data": "n1"
       },
+      "interactive": false,
       "encode": {
         "enter": {
           "font": {
@@ -235,7 +291,7 @@
         },
         "update": {
           "x": {
-            "signal": "(datum.x0 + datum.x1) / 2"
+            "signal": "scale('xs', datum.x0) + (datum.x1 - datum.x0) / 2"
           },
           "y": {
             "signal": "(datum.y0 + datum.y1) / 2"
@@ -254,6 +310,7 @@
       "from": {
         "data": "n2"
       },
+      "interactive": false,
       "encode": {
         "enter": {
           "font": {
@@ -271,7 +328,7 @@
         },
         "update": {
           "x": {
-            "signal": "datum.x1 + 6"
+            "signal": "scale('xs', datum.x0) + (datum.x1 - datum.x0) + 6"
           },
           "y": {
             "signal": "(datum.y0 + datum.y1) / 2"
@@ -284,22 +341,41 @@
           }
         }
       }
-    }
-  ],
-  "signals": [
+    },
     {
-      "name": "hovered",
-      "value": null,
-      "on": [
-        {
-          "events": "@node:mouseover",
-          "update": "datum.name"
-        },
-        {
-          "events": "@node:mouseout",
-          "update": "null"
+      "type": "rect",
+      "name": "node",
+      "from": {
+        "data": "nodes"
+      },
+      "encode": {
+        "update": {
+          "x": {
+            "signal": "scale('xs', datum.x0) - (datum.col === 0 ? 46 : 0)"
+          },
+          "x2": {
+            "signal": "scale('xs', datum.x0) + (datum.x1 - datum.x0) + (datum.col === 2 ? 90 : 0)"
+          },
+          "y": {
+            "field": "y0"
+          },
+          "y2": {
+            "field": "y1"
+          },
+          "fill": {
+            "value": "#000"
+          },
+          "fillOpacity": {
+            "value": 0
+          },
+          "cursor": {
+            "value": "pointer"
+          },
+          "tooltip": {
+            "signal": "datum.name + ': ' + datum.value + ' releases'"
+          }
         }
-      ]
+      }
     }
   ]
 }

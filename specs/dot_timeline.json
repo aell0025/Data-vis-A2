@@ -14,6 +14,10 @@
       "as": "kind"
     },
     {
+      "calculate": "isValid(datum.locality) ? datum.locality : 'Not recorded'",
+      "as": "place"
+    },
+    {
       "window": [
         {
           "op": "row_number",
@@ -76,11 +80,16 @@
     },
     "tooltip": [
       {
-        "field": "title",
-        "title": "Item"
+        "field": "object_type",
+        "title": "Object type"
       },
       {
-        "field": "year"
+        "field": "year",
+        "title": "Year (estimated)"
+      },
+      {
+        "field": "place",
+        "title": "Place"
       }
     ],
     "opacity": {

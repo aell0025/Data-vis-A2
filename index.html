@@ -53,9 +53,9 @@
     <div class="text">
       <h2>How the museum files it</h2>
       <p>More than half the items (77 of 142) sit under &ldquo;Music &amp; musical instruments&rdquo;. Each block is an object type, and its size is the number of items. Disc recordings are the single largest block, with 49.</p>
-      <p class="chart-caption">Colour shows the museum&rsquo;s own classification. Where an item has several, the first of eight music classifications listed in the written submission is used.</p>
+      <p class="chart-caption">Colour shows the museum&rsquo;s own classification. The squares below show the same items, one square each, with each classification&rsquo;s share of the 142. Where an item has several, the first of eight music classifications listed in the written submission is used.</p>
     </div>
-    <div class="chart" id="chart-treemap"></div>
+    <div class="chart"><div id="chart-treemap"></div><div id="chart-waffle" style="margin-top: 14px"></div></div>
   </section>
 
   <section class="flip">
@@ -70,8 +70,8 @@
   <section class="flip reverse">
     <div class="text">
       <h2>Kept close to home</h2>
-      <p>Of the 87 Museums Victoria items linked to an Australian place, 70 belong to Greater Melbourne, led by the city itself and the inner suburb of Carlton. Circles are sized by the number of items; inner-city suburbs overlap because they sit only a few kilometres apart.</p>
-      <p class="chart-caption">Another 17 items are tied to places outside this view, mainly Sydney.</p>
+      <p>Of the 83 Museums Victoria items linked to an Australian place, 67 belong to Greater Melbourne, led by the city itself and the inner suburb of Carlton. Circles are sized by the number of items; inner-city suburbs overlap because they sit only a few kilometres apart.</p>
+      <p class="chart-caption">Shaded suburbs have at least one item. Another 16 Australian items are tied to places outside this view, mainly Sydney.</p>
     </div>
     <div class="chart" id="map-symbol"></div>
   </section>
@@ -79,7 +79,7 @@
   <section class="flip">
     <div class="text">
       <h2>Objects that travelled</h2>
-      <p>Ten items in the collection trace back to places overseas &mdash; London, Paris, Chicago, Calcutta and more. Each line runs from the place an item is linked to, to Melbourne, where it ended up.</p>
+      <p>14 items in the collection trace back to places overseas &mdash; London, Paris, Chicago, Calcutta and more. Each line runs from the place an item is linked to, to Melbourne, where it ended up.</p>
       <p class="chart-caption">Line thickness shows the number of items. Lines are straight paths on the map, not flight routes.</p>
     </div>
     <div class="chart" id="map-flow"></div>
@@ -165,8 +165,8 @@
 
   <p class="source-note">
     Data: Museums Victoria Collections API (CC0 data / CC BY 4.0 text) and
-    Discogs data (CC0). Basemaps: Natural Earth via world-atlas; Australian
-    state boundaries via ferocia/australia-geojsons. Cleaning and
+    Discogs data (CC0). Basemaps: Natural Earth via world-atlas; Melbourne
+    suburb boundaries: Australian Bureau of Statistics, via tonywr71/GeoJson-Data. Cleaning and
     classification methodology is described in the written submission.
   </p>
 
@@ -177,6 +177,7 @@
   const charts = {
     '#chart-object-types': 'specs/object_types.json',
     '#chart-treemap': 'specs/treemap_objects.json',
+    '#chart-waffle': 'specs/waffle_classification.json',
     '#chart-dots': 'specs/dot_timeline.json',
     '#map-symbol': 'specs/map_symbol_victoria.json',
     '#map-flow': 'specs/map_flow.json',

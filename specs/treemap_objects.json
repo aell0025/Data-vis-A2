@@ -1,10 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "width": 520,
-  "height": 420,
-  "padding": 2,
+  "height": 380,
+  "padding": 0,
   "autosize": {
-    "type": "pad"
+    "type": "fit-x",
+    "contains": "padding"
   },
   "data": [
     {
@@ -69,18 +69,6 @@
         "#C9A64B",
         "#3E5C55"
       ]
-    }
-  ],
-  "legends": [
-    {
-      "fill": "color",
-      "orient": "bottom",
-      "columns": 2,
-      "labelFont": "Spectral, Georgia, serif",
-      "labelFontSize": 11,
-      "symbolType": "square",
-      "title": "Museum classification",
-      "titleFont": "Spectral, Georgia, serif"
     }
   ],
   "marks": [
@@ -162,6 +150,18 @@
           }
         }
       }
+    }
+  ],
+  "signals": [
+    {
+      "name": "width",
+      "init": "containerSize()[0] > 0 ? containerSize()[0] : 520",
+      "on": [
+        {
+          "events": "window:resize",
+          "update": "containerSize()[0] > 0 ? containerSize()[0] : 520"
+        }
+      ]
     }
   ]
 }
